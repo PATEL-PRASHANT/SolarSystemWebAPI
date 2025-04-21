@@ -1,0 +1,6 @@
+@SolarSystemAPI_HostAddress = http://localhost:5044
+
+GET {{SolarSystemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
